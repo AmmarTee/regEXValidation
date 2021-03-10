@@ -1,0 +1,10 @@
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\bin\Debug\validationForm.exe.config
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\bin\Debug\validationForm.exe
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\bin\Debug\validationForm.pdb
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\obj\Debug\validationForm.csprojAssemblyReference.cache
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\obj\Debug\validationForm.Form1.resources
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\obj\Debug\validationForm.Properties.Resources.resources
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\obj\Debug\validationForm.csproj.GenerateResource.cache
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\obj\Debug\validationForm.csproj.CoreCompileInputs.cache
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\obj\Debug\validationForm.exe
+C:\Users\ammar\Documents\Visual Studio 2019\validationForm\obj\Debug\validationForm.pdb
